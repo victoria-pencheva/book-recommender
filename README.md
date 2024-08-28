@@ -1,1 +1,1 @@
-A book recommendation system I made for Advanced Python Course.
+A book recommendation system I made for the Advanced Python Course I took.
